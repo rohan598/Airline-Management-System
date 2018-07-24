@@ -58,4 +58,11 @@ replace ***yourpassword*** with ***your actual password***, **change root only i
 
 **Step-11**: Now the project is all set up and can be run tested.
 
+## Contributors
+
+[**Rohan Wadhawan**](https://github.com/rohan598)
+
+[**Apar Garg**](https://github.com/apargarg)
+
+[**Dipesh Bhudiraja**](https://github.com/Dipesh-Budhiraja)
 
